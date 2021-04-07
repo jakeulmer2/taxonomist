@@ -4,11 +4,18 @@ public abstract class Animal extends Creature {
 
     @Override
     public String eatFood(){
-        return "Ingestion";
+
+        return "INGESTION";
     }
 
     @Override
     public String modeOfReproduction(){
-        return "Sexual Reproduction";
+
+        return "SEXUAL REPRODUCTION";
+    }
+
+    @Override
+    public String toString(){
+        return "Hello from Animal class";
     }
 }

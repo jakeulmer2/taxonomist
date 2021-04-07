@@ -4,12 +4,14 @@ public abstract class Plant extends Creature {
 
     @Override
     public String eatFood(){
-        return "sunlight (aka photosynthesis)";
+
+        return "SUNLIGHT(AKA PHOTOSYNTHESIS)";
     }
 
     @Override
     public String modeOfReproduction(){
-        return "Seeds";
+
+        return "SEEDS";
     }
 
 }

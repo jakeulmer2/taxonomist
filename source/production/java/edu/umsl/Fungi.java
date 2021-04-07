@@ -4,12 +4,14 @@ public abstract class Fungi extends Creature{
 
     @Override
     public String eatFood(){
-        return "External digestion with Hyphae";
+
+        return "EXTERNAL DIGESTION WITH HYPHAE";
     }
 
     @Override
     public String modeOfReproduction(){
-        return "Spores";
+
+        return "SPORES";
     }
 
 }
