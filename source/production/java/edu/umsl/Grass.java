@@ -6,6 +6,7 @@ public class Grass extends Plant {
 
     //Default constructor
     Grass(){
+
         super();
     }
 

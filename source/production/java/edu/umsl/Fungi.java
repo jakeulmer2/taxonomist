@@ -14,4 +14,12 @@ public abstract class Fungi extends Creature{
         return "SPORES";
     }
 
+    @Override
+    public String toString(){
+        return "Hello from Fungi class";
+    }
+
+
 }
+
+

@@ -2,11 +2,12 @@ package edu.umsl;
 
 public class Truffles extends Fungi {
 
-    private String smell = "MUSKY, GARLICK-Y, SULPHUROUS, AND FUNKY";
+    private String smell = "MUSKY, GARLIC-Y, SULPHUROUS, AND FUNKY";
     private String grow = "UNDERGROUND";
 
     //Default constructor
     public Truffles(){
+
         super();
     }
 

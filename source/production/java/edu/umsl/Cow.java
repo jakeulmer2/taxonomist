@@ -6,6 +6,7 @@ public class Cow extends Animal {
 
     //Default constructor
     public Cow(){
+
         super();
     }
 

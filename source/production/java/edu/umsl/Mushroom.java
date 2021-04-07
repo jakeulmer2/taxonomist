@@ -6,6 +6,7 @@ public class Mushroom extends Fungi {
 
     //Default constructor
     public Mushroom(){
+
         super();
     }
 

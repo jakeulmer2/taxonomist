@@ -14,4 +14,9 @@ public abstract class Plant extends Creature {
         return "SEEDS";
     }
 
+    @Override
+    public String toString(){
+        return "Hello from Plant class";
+    }
+
 }
